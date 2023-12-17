@@ -1,0 +1,172 @@
+
+=================================
+CFGSPAWNABLETYPES Start -->
+  <type name="Era_Zombies_BabyZmb">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Clot">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_feeder">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Golovastik">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Kleshni">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Krovosos">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_MumiaSlowZmb">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_MurderZmb">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_snork">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb1">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb2">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb3">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb4">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb5">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb6">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb7">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_StlZomb8">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Zombie">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Zubastik1">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Zubastik2">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+  <type name="Era_Zombies_Zubastik3">
+      <cargo preset="foodArmy" />
+      <cargo preset="ammoArmy" />
+      <attachments preset="glassesArmy" />
+      <attachments preset="hatsArmy" />
+      <attachments preset="bagsArmy" />
+      <attachments preset="vestsArmy" />
+  </type>
+<!--  CFG
